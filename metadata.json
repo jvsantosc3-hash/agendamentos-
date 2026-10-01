@@ -1,0 +1,6 @@
+{
+  "name": "Agendapro - Sistema de Agendamento para Manicure, Barbearia e Lava Rápido",
+  "description": "Sistema completo de agendamento online e gestão operacional para esmalterias, barbearias e lava rápidos com controle de serviços, profissionais, clientes e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
